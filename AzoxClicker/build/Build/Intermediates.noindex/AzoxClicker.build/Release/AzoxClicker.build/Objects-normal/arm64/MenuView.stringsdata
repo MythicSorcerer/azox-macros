@@ -1,0 +1,168 @@
+{
+  "source": "/Users/ximotu/Azox-Clicker/AzoxClicker/AzoxClicker/MenuView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Open Settings",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quit",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Status",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mode: %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clicks: %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Running",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stopped",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Safety: Bypassed",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Safety: Auto-stop at 5s",
+        "location": {
+          "startingColumn": 83,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start Left Clicker",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start Right Clicker",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start Both Clicker",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hotkeys",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Accessibility Permission Needed",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enable Accessibility for Azox Clicker to send mouse events.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 124
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open Settings",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 128
+        }
+      },
+      {
+        "comment": "",
+        "key": "Request",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 131
+        }
+      }
+    ]
+  },
+  "version": 1
+}

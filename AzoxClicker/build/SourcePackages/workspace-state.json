@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "keyboardshortcuts",
+          "kind" : "fileSystem",
+          "location" : "/Users/ximotu/Azox-Clicker/KeyboardShortcuts",
+          "name" : "KeyboardShortcuts"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/ximotu/Azox-Clicker/KeyboardShortcuts"
+        },
+        "subpath" : "keyboardshortcuts"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

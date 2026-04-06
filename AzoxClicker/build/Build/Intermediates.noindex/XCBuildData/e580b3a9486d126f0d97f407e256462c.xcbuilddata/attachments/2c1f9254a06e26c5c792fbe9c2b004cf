@@ -1,0 +1,56 @@
+{
+  "" : {
+    "const-values" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker-primary.swiftconstvalues",
+    "dependencies" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker-primary.d",
+    "diagnostics" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker-primary.dia",
+    "emit-module-dependencies" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker-primary-emit-module.dia",
+    "pch" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker-primary.swiftdeps"
+  },
+  "/Users/ximotu/Azox-Clicker/AzoxClicker/AzoxClicker/AzoxClickerApp.swift" : {
+    "index-unit-output-path" : "/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClickerApp.o",
+    "llvm-bc" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClickerApp.bc",
+    "object" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClickerApp.o"
+  },
+  "/Users/ximotu/Azox-Clicker/AzoxClicker/AzoxClicker/ClickEngine.swift" : {
+    "index-unit-output-path" : "/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/ClickEngine.o",
+    "llvm-bc" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/ClickEngine.bc",
+    "object" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/ClickEngine.o"
+  },
+  "/Users/ximotu/Azox-Clicker/AzoxClicker/AzoxClicker/ContentView.swift" : {
+    "index-unit-output-path" : "/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/ximotu/Azox-Clicker/AzoxClicker/AzoxClicker/MenuView.swift" : {
+    "index-unit-output-path" : "/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/MenuView.o",
+    "llvm-bc" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/MenuView.bc",
+    "object" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/MenuView.o"
+  },
+  "/Users/ximotu/Azox-Clicker/AzoxClicker/AzoxClicker/Models.swift" : {
+    "index-unit-output-path" : "/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/Models.o"
+  },
+  "/Users/ximotu/Azox-Clicker/AzoxClicker/AzoxClicker/Permissions.swift" : {
+    "index-unit-output-path" : "/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/Permissions.o",
+    "llvm-bc" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/Permissions.bc",
+    "object" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/Permissions.o"
+  },
+  "/Users/ximotu/Azox-Clicker/AzoxClicker/AzoxClicker/SettingsStore.swift" : {
+    "index-unit-output-path" : "/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/SettingsStore.o",
+    "llvm-bc" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/SettingsStore.bc",
+    "object" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/SettingsStore.o"
+  },
+  "/Users/ximotu/Azox-Clicker/AzoxClicker/AzoxClicker/SettingsView.swift" : {
+    "index-unit-output-path" : "/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/SettingsView.o"
+  },
+  "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

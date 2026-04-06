@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>B993F92E-7EEB-4472-8032-4ABF3AA2435D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B993F92E-7EEB-4472-8032-4ABF3AA2435D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AzoxClicker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AzoxClicker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project AzoxClicker with scheme AzoxClicker and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>793591352.13682306</real>
+			<key>timeStoppedRecording</key>
+			<real>793591360.271963</real>
+			<key>title</key>
+			<string>Building project AzoxClicker with scheme AzoxClicker and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>B993F92E-7EEB-4472-8032-4ABF3AA2435D</string>
+		</dict>
+		<key>FC76500A-3829-475B-99F8-DE9002E85174</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC76500A-3829-475B-99F8-DE9002E85174.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AzoxClicker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AzoxClicker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project AzoxClicker with scheme AzoxClicker and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>793178650.61913705</real>
+			<key>timeStoppedRecording</key>
+			<real>793178656.79218602</real>
+			<key>title</key>
+			<string>Building project AzoxClicker with scheme AzoxClicker and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>FC76500A-3829-475B-99F8-DE9002E85174</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

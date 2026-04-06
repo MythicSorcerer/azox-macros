@@ -1,0 +1,392 @@
+{
+  "source": "/Users/ximotu/Azox-Clicker/AzoxClicker/AzoxClicker/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Changes save automatically",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 11
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done Editing",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Shortcuts",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Click Speed",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Auto Stop",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quick Tips",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rate Mode",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Safety limit is active: clicker force-stops after 5 seconds.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bypass 5s Safety Limit",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop Mode",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Use fixed CPS + stop after time for the classic CPS + end time workflow.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "High click speed detected",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Click speed OK",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Warning: Click speeds above 100 CPS may cause apps to freeze.",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "CPS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "50",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "Interval",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "50",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 124
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clicks",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 133
+        }
+      },
+      {
+        "comment": "",
+        "key": "per",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 136
+        }
+      },
+      {
+        "comment": "",
+        "key": "10",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 134
+        }
+      },
+      {
+        "comment": "",
+        "key": "1",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 139
+        }
+      },
+      {
+        "comment": "",
+        "key": "Interval Min",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 148
+        }
+      },
+      {
+        "comment": "",
+        "key": "Max",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 151
+        }
+      },
+      {
+        "comment": "",
+        "key": "20",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 149
+        }
+      },
+      {
+        "comment": "",
+        "key": "80",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 152
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 154
+        }
+      },
+      {
+        "comment": "",
+        "key": "Min CPS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 163
+        }
+      },
+      {
+        "comment": "",
+        "key": "Max CPS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 166
+        }
+      },
+      {
+        "comment": "",
+        "key": "10",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 164
+        }
+      },
+      {
+        "comment": "",
+        "key": "40",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 167
+        }
+      },
+      {
+        "comment": "",
+        "key": "No auto-stop configured.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 180
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "10",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 186
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 188
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clicks",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 197
+        }
+      },
+      {
+        "comment": "",
+        "key": "1000",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 199
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time Min",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 204
+        }
+      },
+      {
+        "comment": "",
+        "key": "Max",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 207
+        }
+      },
+      {
+        "comment": "",
+        "key": "5",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 205
+        }
+      },
+      {
+        "comment": "",
+        "key": "15",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 208
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 210
+        }
+      },
+      {
+        "comment": "",
+        "key": "Click Min",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 219
+        }
+      },
+      {
+        "comment": "",
+        "key": "Max",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 222
+        }
+      },
+      {
+        "comment": "",
+        "key": "500",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 220
+        }
+      },
+      {
+        "comment": "",
+        "key": "1500",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 223
+        }
+      }
+    ]
+  },
+  "version": 1
+}

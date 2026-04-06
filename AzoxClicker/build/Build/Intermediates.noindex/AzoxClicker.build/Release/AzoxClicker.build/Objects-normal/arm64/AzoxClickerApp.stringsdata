@@ -1,0 +1,16 @@
+{
+  "source": "/Users/ximotu/Azox-Clicker/AzoxClicker/AzoxClicker/AzoxClickerApp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Azox Clicker",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 11
+        }
+      }
+    ]
+  },
+  "version": 1
+}

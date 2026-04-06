@@ -1,0 +1,12 @@
+{
+  "/Users/ximotu/Azox-Clicker/AzoxClicker/AzoxClicker/AzoxClickerApp.swift" : {
+    "abi-baseline-json" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker.abi.json",
+    "const-values" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker-primary.swiftconstvalues",
+    "dependencies" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker-primary.d",
+    "diagnostics" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker-primary.dia",
+    "objc-header" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker-Swift.h",
+    "swiftdoc" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker.swiftdoc",
+    "swiftmodule" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker.swiftmodule",
+    "swiftsourceinfo" : "/Users/ximotu/Azox-Clicker/AzoxClicker/build/Build/Intermediates.noindex/AzoxClicker.build/Release/AzoxClicker.build/Objects-normal/arm64/AzoxClicker.swiftsourceinfo"
+  }
+}
